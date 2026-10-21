@@ -31,4 +31,4 @@ You can also create a Web Service manually with build command `pip install -r re
 - The application requires text-extractable PDFs for page-linked evidence.
 
 ## AI-use disclosure
-Add your course-required disclosure of any AI assistance used during development. Review and understand the code before submission.
+
